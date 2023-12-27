@@ -3,13 +3,18 @@
 <p1>This application is an anonymous chat platform built using React for the front end and Express with Socket.IO for real-time communication on the server side. The key feature of this app is its anonymous nature; users can join chat rooms without providing any personal information or usernames.<p/>
 
 <h1>Features<h1></h1>
-Real-time Chat: Utilizes Socket.IO to enable real-time, bidirectional communication between clients and the server.
-Anonymous Access: Users can join chat rooms without any registration or login, only by providing a room name.
+  
+# Real-time Chat: 
+Utilizes Socket.IO to enable real-time, bidirectional communication between clients and the server.
+# Anonymous Access:
+Users can join chat rooms without any registration or login, only by providing a room name.
 Multiple Rooms: Supports multiple chat rooms, allowing users to join different conversations.
-Simplified UI: A straightforward UI with minimalistic design focusing on chat functionality.
+# Simplified UI: 
+A straightforward UI with minimalistic design focusing on chat functionality.
 Technologies Used
-Frontend:
 
+
+Frontend:
 React: Used for building the user interface.
 Socket.IO Client: Enables WebSocket communication with the server.
 Backend:
