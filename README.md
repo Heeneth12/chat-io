@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/Heeneth12/chat-io/assets/114326514/9ace89c4-107e-49db-a2e6-c0b3aa8de2a0" alt="Image" width="400" height="1000">
+<img src="https://github.com/Heeneth12/chat-io/assets/114326514/9ace89c4-107e-49db-a2e6-c0b3aa8de2a0" alt="Image" width="500" height="1000">
 
 
 </p>
