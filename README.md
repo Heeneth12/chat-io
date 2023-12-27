@@ -1,7 +1,8 @@
 <h1 align="center">Anonymous Chat App with React and Socket.IO</h1>
 
 <p align="center">
-  <img src="insert_your_screenshot_url_here" alt="App Screenshot">
+  #mobile view
+  ![image](https://github.com/Heeneth12/chat-io/assets/114326514/5307a136-fd32-4b65-ab5c-0dadde196cb2)
 </p>
 
 ## Introduction
