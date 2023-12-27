@@ -1,7 +1,11 @@
 <h1 align="center">Anonymous Chat App with React and Socket.IO</h1>
 
+
 <p align="center">
-  #mobile view![52ce6433-c604-430c-98d3-4532f387b1b5](https://github.com/Heeneth12/chat-io/assets/114326514/ed4c2785-45ba-4fe0-bb3e-435c473ad643)
+![52ce6433-c604-430c-98d3-4532f387b1b5](https://github.com/Heeneth12/chat-io/assets/114326514/630b5b76-5a33-4321-b95c-55e48d9b9cd8)
+
+<p/>
+ 
 
 ## Introduction
 
