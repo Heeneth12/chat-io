@@ -2,10 +2,6 @@
 
 
 <p align="center">
-![Alt Text]((https://github.com/Heeneth12/chat-io/assets/114326514/9ace89c4-107e-49db-a2e6-c0b3aa8de2a0)
-
-
-
 
 </p>
  
